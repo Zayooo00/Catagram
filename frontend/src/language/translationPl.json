@@ -1,0 +1,54 @@
+{
+    "profile" : "Profil",
+    "login" : "Zaloguj",
+    "logout" : "Wyloguj",
+    "home" : "Strona główna",
+    "add" : "Dodaj",
+    "signup" : "Rejestracja",
+    "contactus" : "Kontakt",
+    "selectLang" : "Język",
+
+
+    "add.formTitle" : "Tytuł",
+    "add.formDescription" : "Opis", 
+    "add.createTitle" : "Utwórz nowy post",
+    "add.uploadFile" : "Dodaj Plik",
+    "add.fileSelected" : "Plik Dodany",
+    "add.submit" : "Wyślij",
+    "add.newTitle" : "Nowy post został utworzony",
+
+
+    "editProfile.editTitle" : "Edytuj profil",
+    "editProfle.submit" : "Aktualizuj",
+    "editProfile.newTitle" : "Profil zaktualizowany",
+
+
+    "contactUs.page" : "Strona Kontaktowa",
+    "contactUs.pageText" : "Jeśli chcesz się z nami skontaktować, naciśnij poniższy przycisk, aby otworzyć formularz kontaktowy.",
+    "contactUs.formName" : "Imię",
+    "contactUs.formEmail" : "Email",
+    "contactUs.formSubject" : "Temat",
+    "contactUs.formMessage" : "Wiadomość",
+    "contactUs.end" : "Wyślij formularz",
+
+
+    "login.formUsername" : "Nazwa użytkownika",
+    "login.formPassword" : "Hasło",
+    "login.getAccount" : "Nie masz konta?",
+
+
+    "signup.formUsername" : "Nazwa użytkownika",
+    "signup.formName" : "Imię",
+    "signup.formEmail" : "Email",
+    "signup.formPassword" : "Hasło",
+    "signup.formLastname" : "Nazwisko",
+    "signup.formDescription" : "Opis profilu",
+    "signup.end" : "Utwórz Profil",
+    "signup.getLoginText" : "Masz już konto?",
+    
+    "start.welcome" : "Witaj w Catagram!",
+    "start.text" : "Szybko rozwijająca się społeczność kreatywnych właścicieli kochających koty.",
+
+
+    "cos" : "cos"
+}

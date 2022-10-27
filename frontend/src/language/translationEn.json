@@ -1,0 +1,53 @@
+{
+    "profile" : "Profile",
+    "login" : "Login",
+    "logout" : "Logout",
+    "home" : "Home",
+    "add" : "Add",
+    "signup" : "Sign Up",
+    "contactus" : "Contact Us",
+    "selectLang" : "Language",
+
+
+    "add.formTitle" : "Title",
+    "add.formDescription" : "Description", 
+    "add.createTitle" : "Create new post",
+    "add.uploadFile" : "Upload File",
+    "add.fileSelected" : "File Selected",
+    "add.submit" : "Submit",
+    "add.newTitle" : "New post was created",
+
+
+    "editProfile.editTitle" : "Edit profile",
+    "editProfle.submit" : "Update Profile",
+    "editProfile.newTitle" : "Profile updated",
+
+
+    "contactUs.page" : "Contact Page",
+    "contactUs.pageText" : "If you would like to get in touch with us, press the button below to open the contact form.",
+    "contactUs.formName" : "Name",
+    "contactUs.formEmail" : "Email",
+    "contactUs.formSubject" : "Subject",
+    "contactUs.formMessage" : "Message",
+    "contactUs.end" : "Send the form",
+
+
+    "login.formUsername" : "Username",
+    "login.formPassword" : "Password",
+    "login.getAccount" : "Don't have an account?",
+
+
+    "signup.formUsername" : "Username",
+    "signup.formName" : "Name",
+    "signup.formEmail" : "Email",
+    "signup.formPassword" : "Password",
+    "signup.formLastname" : "Lastname",
+    "signup.formDescription" : "Description",
+    "signup.end" : "Create Profile",
+    "signup.getLoginText" : "Have an account?",
+
+    "start.welcome" : "Welcome to Catagram!",
+    "start.text" : "Fast-Growing community of creative cat loving owners.",
+
+    "cos" : "cos"
+}
